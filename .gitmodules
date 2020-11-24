@@ -1,0 +1,3 @@
+[submodule "FidelityFX-VariableShading"]
+	path = FidelityFX-VariableShading
+	url = https://github.com/GPUOpen-Effects/FidelityFX-VariableShading
